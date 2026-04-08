@@ -1,18 +1,11 @@
 ---
 name: humanizer-zh-tw
-description: |
-  去除文字中的 AI 生成痕跡。適用於編輯或審閱文字，使其聽起來更自然、更像人類書寫。
-  基於維基百科的「AI 寫作特徵」綜合指南。偵測並修復以下模式：誇大的象徵意義、
-  宣傳性語言、以 -ing 結尾的膚淺分析、模糊的歸因、破折號過度使用、三段式法則、
-  AI 詞彙、否定式排比、過多的連接性短語。
+description: 去除繁體中文文字中的 AI 生成痕跡，使內容更自然、更像人類書寫。偵測並修復誇大象徵、宣傳語言、破折號濫用、三段式法則、AI 慣用詞、否定排比等模式。Use when editing Chinese text to remove AI writing patterns.
 allowed-tools:
   - Read
   - Write
   - Edit
   - AskUserQuestion
-metadata:
-  trigger: 編輯或審閱文字，去除 AI 寫作痕跡
-  source: op7418/humanizer-zh 的分支，翻譯自 blader/humanizer，參考 hardikpandya/stop-slop
 ---
 
 # Humanizer-zh-TW: 去除 AI 寫作痕跡
