@@ -1,0 +1,12 @@
+{
+  "name": "jsphh-writing",
+  "version": "1.0.0",
+  "description": "Writing and content skills for Claude Code — humanizing AI text, storytelling, and journal conversion.",
+  "author": "jsphh7124",
+  "skills": [
+    "humanizer",
+    "humanizer-zh-tw",
+    "exstory",
+    "journal-to-md"
+  ]
+}
