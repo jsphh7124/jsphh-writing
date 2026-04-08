@@ -1,5 +1,5 @@
 ---
-name: anya-story
+name: exstory
 description: A narrative engine that replaces the user's grandmother's bedtime stories with a complex, adult-themed psychological and erotic story set in a university AI lab. It features a dynamic character status system and detailed sensory writing.
 ---
 
